@@ -1,15 +1,6 @@
-# React Webpack Starter
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) 
-![Build Status](https://travis-ci.org/temilaj/react-webpack-starter.svg?branch=master) 
-[![GitHub version](https://badge.fury.io/gh/temilaj%2Freact-webpack-starter.svg)](https://badge.fury.io/gh/temilaj%2Freact-webpack-starter)
+# Star Wars test
 
-A boiler plate for creating react applications bundled by webpack (using ES6+, Babel, SASS and webpack development server)
-
-## Features
-+ ES6 and greater => ES5 code transpiling (with Babel)
-+ Styling with SASS
-+ File bundling with webpack
-+ local development with the webpack development server
+Tessting React, using React's Context API flow with Star Wars API
 
 ## Requirements
 To run this project, you’ll need to install [node 5 and above](https://nodejs.org/en/). The latest version of Node.js is recommended. 
@@ -63,7 +54,3 @@ or
 ```bash
  npm start
 ```
-
-## LICENSE
-
-#### [MIT](./LICENSE) © [Temi Lajumoke](http://temilajumoke.com)
