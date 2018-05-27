@@ -1,0 +1,32 @@
+.content-container {
+  min-height: 100vh;
+}
+
+.login-form {
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    margin-top: 200px;
+  }
+}
+
+.user-indicator.active.btn {
+  cursor: default;
+}
+
+.jumbotron {
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.planets {
+  padding-left: 0;
+}
+
+.planet {
+  margin-right: 10px;
+}
+
+.search-count {
+  top: 15px;
+  right: 35px;
+}
